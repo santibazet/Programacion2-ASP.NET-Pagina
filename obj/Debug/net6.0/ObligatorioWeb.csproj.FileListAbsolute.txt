@@ -1,0 +1,780 @@
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\proyectos\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\santi\Desktop\ObligatorioWeb - copia (2)\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\santi\Desktop\OBLIGATORIO CRUD FUNCIONAL\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\santi\Desktop\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\santi\Desktop\xd\CRUD FUNCIONALL\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\santi\Desktop\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\proyectos\CRUD FUNCIONAL FINAL - copia\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\santi\Desktop\CRUD Drop Funcional\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\santi\Desktop\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.staticwebassets.runtime.json
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.exe
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.deps.json
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.runtimeconfig.json
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.AssemblyInfo.cs
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cache
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.RazorAssemblyInfo.cs
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.ObligatorioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ObligatorioWeb.props
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ObligatorioWeb.props
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ObligatorioWeb.props
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\bundle\ObligatorioWeb.styles.css
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\scopedcss\projectbundle\ObligatorioWeb.bundle.scp.css
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.csproj.CopyComplete
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\refint\ObligatorioWeb.dll
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.pdb
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ObligatorioWeb.genruntimeconfig.cache
+C:\Users\santi\Desktop\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\obj\Debug\net6.0\ref\ObligatorioWeb.dll

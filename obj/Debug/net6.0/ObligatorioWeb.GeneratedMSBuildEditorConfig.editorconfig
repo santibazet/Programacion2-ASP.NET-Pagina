@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ObligatorioWeb
+build_property.RootNamespace = ObligatorioWeb
+build_property.ProjectDir = C:\Users\santi\Desktop\CTC\3. SEGUNDO SEMETRE\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\santi\Desktop\CTC\3. SEGUNDO SEMETRE\OBLIGATORIO 2 PROG 2\OBLIGATORIO PROG 2 FINAL\ObligatorioWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/Choferes/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hvZmVyZXNcQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/Choferes/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hvZmVyZXNcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/Choferes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hvZmVyZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/PaginaVehiculos/CrearVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hVmVoaWN1bG9zXENyZWFyVmVoaWN1bG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/PaginaVehiculos/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hVmVoaWN1bG9zXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/PaginaVehiculos/IndexVehiculos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hVmVoaWN1bG9zXEluZGV4VmVoaWN1bG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/Desktop/CTC/3. SEGUNDO SEMETRE/OBLIGATORIO 2 PROG 2/OBLIGATORIO PROG 2 FINAL/ObligatorioWeb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bpv581zsnx
