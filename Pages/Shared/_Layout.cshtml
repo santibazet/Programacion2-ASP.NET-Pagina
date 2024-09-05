@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ObligatorioWeb.styles.css" asp-append-version="true" />
+    <style>
+        .nav-link:hover {
+            transform: scale(1.02);
+            transition: transform 0.2s ease;
+        }
+
+        .navbar-brand.animated {
+            animation: rubberBand 1s;
+        }
+
+        .footer a {
+            color: #ccc;
+        }
+
+        .footer {
+            background-color: #343a40;
+            color: #fff;
+            box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+
+
+        section {
+            padding: 50px 0;
+        }
+
+        .feature {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+            .feature h2 {
+                border-bottom: 2px solid #343a40;
+                padding-bottom: 10px;
+                margin-bottom: 20px;
+            }
+
+            .feature p {
+                font-size: 18px;
+            }
+
+        .mission-section {
+            background-color: #f8f9fa;
+            padding: 50px 0;
+        }
+
+            .mission-section h2 {
+                margin-bottom: 30px;
+            }
+
+        .image-section {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+            .image-section img {
+                width: 100%;
+                max-height: 300px;
+                object-fit: cover;
+                border: 1px solid #ddd;
+                border-radius: 8px;
+                margin-bottom: 20px;
+            }
+    </style>
+</head>
+<body>
+    <header>
+
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3 shadow-lg">
+            <div class="container">
+                <a class="navbar-brand animated" asp-area="" asp-page="/Index">La Ruta</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between animated fadeIn">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-page="/Choferes/Index"><i class="fas fa-user"></i> Administración de Choferes</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-page="/PaginaVehiculos/IndexVehiculos"><i class="fas fa-car"></i> Administración de Vehiculos</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container text-light">
+            &copy; 2023 - Obligatorio Web - Santiago Bazet - Ezequiel Sale
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

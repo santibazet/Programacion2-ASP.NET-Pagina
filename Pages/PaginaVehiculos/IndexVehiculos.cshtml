@@ -1,0 +1,113 @@
+﻿@page
+@model ObligatorioWeb.Pages.PaginaVehiculos.IndexVehiculosModel
+@{
+    ViewData["Title"] = "Lista de Vehículos";
+}
+<div class="card">
+    <div class="card-header bg-dark text-white">
+        <div class="d-flex justify-content-between align-items-center">
+            <h2 class="mb-0">Lista de Vehículos</h2>
+            <form method="post" class="ms-auto">
+                <select name="accion" onchange="this.form.submit()" class="form-select form-select-sm bg-light text-dark" style="width: 200px;">
+                    <option value="">Seleccione una opción</option>
+                    <option value="todos">Todos</option>
+                    <option value="Asignado">Asignados</option>
+                    <option value="No asignado">No asignados</option>
+                    <option value="Antiguo">Mas antiguo</option>
+                </select>
+            </form>
+        </div>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <h4>
+                @if (@Model.listado != "Todos")
+                {
+                    @Model.listado
+                }
+            </h4>
+            @if (Model.filtrados != null && Model.filtrados.Any())
+            {
+
+                <br />
+                <div class="table-responsive">
+                    <table class="table table-bordered table-striped text-dark">
+                        <thead class="bg-light">
+                        <tr>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Vehiculos.First().CN)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Vehiculos.First().Matricula)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Vehiculos.First().Marca)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Vehiculos.First().Modelo)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Vehiculos.First().Anio)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Vehiculos.First().Estado)
+                        </th>
+                                <th>
+                                    @Html.DisplayNameFor(m => m.Vehiculos.First().Libre)
+                                </th>
+                        <th>
+                            Acciones
+                        </th>
+                        </tr>
+                        </thead>
+                       
+                        <tbody>
+
+                    @foreach (var item in Model.filtrados)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(m => item.CN)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Matricula)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Marca)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Modelo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Anio)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Estado)
+                            </td>
+                                    <td>
+                                        @Html.DisplayFor(m => item.Libre)
+                                    </td>
+                            <td>
+                                        <a asp-route-CN="@item.CN" asp-page="Editar" class="btn btn-success me-2">Editar </a>
+                                <button asp-page-handler="Borrar" asp-route-CN="@item.CN"
+                                        onclick="return confirm('¿Está seguro que quiere eliminar este vehículo?')" class="btn btn-danger">
+                                    Borrar
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                        </tbody>
+                </table>
+                </div>
+            }
+            else
+            {
+                <p>No hay vehiculos ingresados.</p>
+            }
+            <div class="text-center mt-3">
+                <a asp-page="CrearVehiculo" class="btn btn-dark">Crear nuevo Vehículo</a>
+            </div>
+        </form>
+
+    </div>
+</div>

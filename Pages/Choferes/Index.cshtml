@@ -1,0 +1,85 @@
+﻿@page
+@model ObligatorioWeb.Pages.Choferes.IndexModel
+@{
+    ViewData["Title"] = "Lista de Choferes";
+}
+<div class="card">
+    <div class="card-header bg-dark text-white">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <h2 class="mb-0">Lista de Choferes</h2>
+            </div>
+            
+        </div>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            @if (Model.Choferes != null && Model.Choferes.Any())
+            {
+                <br />
+            <div class="table-responsive">
+                    <table class="table table-bordered table-striped text-dark">
+                        <thead class="bg-light">
+                        <tr>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Choferes.First().Ci)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Choferes.First().Nombre)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Choferes.First().Apellido)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Choferes.First().Edad)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Choferes.First().Vehiculo)
+                        </th>
+                        <th>
+                            Acciones
+                        </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                    @foreach (var item in Model.Choferes)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(m => item.Ci)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Nombre)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Apellido)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Edad)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Vehiculo)
+                            </td>
+                            <td>
+                                    <a asp-route-Ci="@item.Ci" asp-page="Editar" class="btn btn-success me-2">Editar</a>
+                                <button asp-page-handler="Borrar" asp-route-Ci="@item.Ci"
+                                            onclick="return confirm('¿Está seguro quiere eliminar este chofer?')" class="btn btn-danger">
+                                    Borrar
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                        </tbody>
+                </table>
+            </div>
+            }
+            else
+            {
+                <p>No hay choferes disponibles</p>
+            }
+            <div class="text-center mt-3">
+                <a asp-page="Crear" class="btn btn-dark">Crear nuevo Chofer</a>
+            </div>
+        </form>
+    </div>
+</div>

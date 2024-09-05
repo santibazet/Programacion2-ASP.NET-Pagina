@@ -1,0 +1,59 @@
+﻿@page
+@model ObligatorioWeb.Pages.PaginaVehiculos.EditarModel
+@{
+    ViewData["Title"] = "Editar Vehículo";
+}
+<div class="card">
+    <div class="card-header bg-dark text-white">
+        <h2 class="text-white">Editar Vehículo</h2>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input type="hidden" asp-for="Vehiculo.CN" />
+            <div class="container" style="padding: 30px">
+                <div class="form-group row">
+                    <label class="col-sm-2 col-form-label font-weight-bold text-dark" asp-for="Vehiculo.Matricula"></label>
+                    <div class="col-sm-6">
+                        <input asp-for="Vehiculo.Matricula" class="form-control mb-2 text-dark" autocomplete="off" />
+                        <span asp-validation-for="Vehiculo.Matricula" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label class="col-sm-2 col-form-label font-weight-bold text-dark" asp-for="Vehiculo.Marca"></label>
+                    <div class="col-sm-6">
+                        <input asp-for="Vehiculo.Marca" class="form-control mb-2 text-dark" autocomplete="off" />
+                        <span asp-validation-for="Vehiculo.Marca" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label class="col-sm-2 col-form-label font-weight-bold text-dark" asp-for="Vehiculo.Modelo"></label>
+                    <div class="col-sm-6">
+                        <input asp-for="Vehiculo.Modelo" class="form-control mb-2 text-dark" autocomplete="off" />
+                        <span asp-validation-for="Vehiculo.Modelo" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label class="col-sm-2 col-form-label font-weight-bold text-dark" asp-for="Vehiculo.Anio"></label>
+                    <div class="col-sm-6">
+                        <input asp-for="Vehiculo.Anio" class="form-control mb-2 text-dark" autocomplete="off" />
+                        <span asp-validation-for="Vehiculo.Anio" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group row mt-4">
+                    <div class="col-sm-6 offset-sm-2">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <input type="submit" value="Guardar" class="btn btn-dark btn-block" />
+                            </div>
+                            <div class="col-sm-6 text-end">
+                                <a asp-page="IndexVehiculos" class="btn btn-secondary">Volver a la lista</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
